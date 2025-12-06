@@ -52,20 +52,3 @@ The focus is on:
 - **Custom fonts & images** stored inside the project
 
 No external frameworks are strictly required, which makes the project easy to deploy on simple web hosting.
-
----
-
-## 📁 Project Structure
-
-```text
-.
-├── css/              # Stylesheets
-├── fonts/            # Web fonts
-├── images/           # Clinic images, icons, graphics
-├── js/               # JavaScript files
-├── contact.php       # Backend handler for contact form
-├── donate.html       # Donation / support page
-├── index.html        # Home page
-├── news.html         # News overview
-├── news-detail.html  # News detail page
-└── .DS_Store         # macOS system file (can be ignored / removed)
